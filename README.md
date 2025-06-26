@@ -62,8 +62,8 @@
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:pronoy@example.com">pronoy@example.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/pronoy" target="_blank">linkedin.com/in/pronoy</a></p>
+    <p>Email: <a href="mailto:pronoy@example.com">pronoydass888@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/pronoy" target="_blank">www.linkedin.com/in/pronoy-dass-845774327</a></p>
   </section>
 
   <footer>
